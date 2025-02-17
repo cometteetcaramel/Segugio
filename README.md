@@ -21,7 +21,7 @@ Segugio requires Python 3.6+ and several dependencies. Follow these steps to ins
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/segugio.git
+git clone https://github.com/cometteetcaramel/segugio.git
 cd segugio
 ```
 
