@@ -89,5 +89,5 @@ python segugio.py https://example.com --output custom_wordlist.txt
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## 📝 Author
-Created by **Your Name** (@yourusername). Feel free to contribute or report issues!
+Created by **cometteetcaramel**. Feel free to contribute or report issues!
 
