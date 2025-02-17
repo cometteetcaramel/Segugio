@@ -14,6 +14,9 @@ Segugio is a powerful Python tool that scrapes websites to extract keywords and 
 This tool is intended for ethical hacking and security research **only**. Do **not** use it to scrape or attack websites without explicit permission. Unauthorized usage may violate legal and ethical guidelines.
 
 ## 📥 Installation
+
+🚨 **Note:** Currently, Segugio only works on Windows. Support for other operating systems may be added in future updates.
+
 Segugio requires Python 3.6+ and several dependencies. Follow these steps to install:
 
 ### 1️⃣ Clone the Repository
@@ -90,4 +93,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## 📝 Author
 Created by **cometteetcaramel**. Feel free to contribute or report issues!
-
